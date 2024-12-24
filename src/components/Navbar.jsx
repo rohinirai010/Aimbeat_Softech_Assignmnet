@@ -140,7 +140,7 @@ const Navbar = () => {
           {isMenuOpen && (
             <div className="md:hidden fixed top-0 left-0 w-full h-full bg-gradient-to-br from-white via-blue-100 to-blue-50 z-50 shadow-lg">
               <div className="flex justify-between items-center px-4 py-3 border-b bg-white shadow-sm">
-                <img src="/logo.png" alt="Shofy" className="h-8" />
+                <img src="./logo.png" alt="Shofy" className="h-8" />
                 <button onClick={() => setIsMenuOpen(false)}>
                   <X size={24} className="text-gray-700 hover:text-blue-500" />
                 </button>
