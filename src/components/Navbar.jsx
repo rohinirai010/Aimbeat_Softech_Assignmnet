@@ -55,7 +55,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between h-14">
             <div className="flex items-center">
               {/* Logo and navigation links */}
-              <img src="/logo.png" alt="Shofy" className="h-8 md:h-10" />
+              <img src="./logo.png" alt="Shofy" className="h-8 md:h-10" />
               <div className="hidden md:flex ml-10 space-x-6">
                 <a
                   href="#"

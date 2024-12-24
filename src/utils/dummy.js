@@ -6,7 +6,7 @@ const products = [
     price: 94.0,
     originalPrice: 100.0,
     rating: 5,
-    image: "/item1.png",
+    image: "./item1.png",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const products = [
     price: 126.0,
     originalPrice: 216.0,
     rating: 4,
-    image: "/item2.png",
+    image: "./item2.png",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const products = [
     price: 93.0,
     originalPrice: 176.0,
     rating: 5,
-    image: "/item3.png",
+    image: "./item3.png",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const products = [
     price: 140.0,
     originalPrice: 180.0,
     rating: 4,
-    image: "/item4.png",
+    image: "./item4.png",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const products = [
     price: 190.0,
     originalPrice: 250.0,
     rating: 3,
-    image: "/item5.png",
+    image: "./item5.png",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const products = [
     price: 160.0,
     originalPrice: 220.0,
     rating: 5,
-    image: "/item6.png",
+    image: "./item6.png",
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const products = [
     price: 550.0,
     originalPrice: 700.0,
     rating: 4,
-    image: "/item7.png",
+    image: "./item7.png",
   },
 ];
 
